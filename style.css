@@ -15,7 +15,7 @@ h1, h2, h3, h4, h5, h6, p {
   font-family: "Open Sans", Arial; }
 
 h1 {
-  font-size: 20px;
+  font-size: 18px;
   font-weight: 600;
   line-height: 20px;
   margin-top: 5px;
@@ -88,7 +88,7 @@ p, .content ol li {
   scroll-snap-align: start; }
 
 .shootlist {
-  border-spacing: 0px 5px;
+  border-spacing: 0px 3px;
   margin-top: 5%;
   min-width: 20px;
   width: auto;
@@ -98,7 +98,7 @@ p, .content ol li {
   text-decoration: none;
   color: black;
   font-family: "Open Sans", Arial;
-  font-weight: 600;
+  font-weight: 400;
   font-size: 14; }
 
 .shootlist th {
@@ -126,7 +126,7 @@ tr:hover a { color: #5c5c5c; }
   text-decoration: none;
   color: black;
   font-family: "Open Sans", Arial;
-  font-weight: 600;
+  font-weight: 400;
   font-size: 14; }
 
 .sidebarcontents tr a:hover {
@@ -159,6 +159,7 @@ tr:hover a { color: #5c5c5c; }
 
 .writingsection a {
   text-decoration: none;
+  font-size: 15px;
   color: #5c5c5c; }
 
 .photosection {
