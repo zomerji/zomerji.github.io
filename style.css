@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap');
 
 *{
   margin: 0;
@@ -12,25 +12,25 @@ body {
   flex-direction: column; }
 
 h1, h2, h3, h4, h5, h6, p {
-  font-family: "Open Sans", Arial; }
+  font-family: "Roboto", Arial; }
 
 h1 {
   font-size: 18px;
-  font-weight: 600;
+  font-weight: 500;
   line-height: 20px;
   margin-top: 5px;
   margin-bottom: 5px; }
 
 h2 {
   font-size: 18px;
-  font-weight: 600;
+  font-weight: 500;
   line-height: 25px;
   margin-top: 5px;
   margin-bottom: 5px; }
 
 h3 {
   font-size: 15px;
-  font-weight: 600;
+  font-weight: 500;
   line-height: 15px;
   margin-top: 10px; }
 
@@ -94,7 +94,7 @@ p, .content ol li {
 .shootlist a {
   text-decoration: none;
   color: black;
-  font-family: "Open Sans", Arial;
+  font-family: "Roboto", Arial;
   font-weight: 400;
   font-size: 14; }
 
@@ -118,13 +118,13 @@ tr:hover a { color: #5c5c5c; }
   padding-left: 50px;
   padding-top: 50px;
   padding-right: 50px;
-  border-spacing: 20px 1px;
+  border-spacing: 20px 2px;
   width: 250px; }
 
 .sidebarcontents a {
   text-decoration: none;
   color: black;
-  font-family: "Open Sans", Arial;
+  font-family: "Roboto", Arial;
   font-weight: 400;
   font-size: 14; }
 
