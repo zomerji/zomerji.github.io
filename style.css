@@ -37,7 +37,7 @@ h3 {
 p, .content ol li {
   font-size: 15px;
   line-height: 20px;
-  font-weight: 400;}
+  font-weight: 400; }
 
 .textcaption {
   font-size: 13px;
@@ -61,11 +61,11 @@ p, .content ol li {
   display: flex;
   scroll-snap-align: start; }
 
-.photosizesection img {
-  object-position: right;
-  max-height: 100%;
-  min-width: 100%;
-  object-fit: cover; }
+  .photosizesection img {
+    object-position: right;
+    max-height: 100%;
+    min-width: 100%;
+    object-fit: cover; }
 
 .titlecaption {
   position: absolute;
@@ -91,19 +91,19 @@ p, .content ol li {
   width: auto;
   align-items: center; }
 
-.shootlist a {
-  text-decoration: none;
-  color: black;
-  font-family: "Roboto", Arial;
-  font-weight: 400;
-  font-size: 14; }
+  .shootlist a {
+    text-decoration: none;
+    color: black;
+    font-family: "Roboto", Arial;
+    font-weight: 400;
+    font-size: 14; }
 
-.shootlist th {
-  text-align: right; }
+  .shootlist th {
+    text-align: right; }
 
-.shootlist td {
-  text-align: left;
-  padding-left: 50px; }
+  .shootlist td {
+    text-align: left;
+    padding-left: 50px; }
 
 tr:hover a { color: #5c5c5c; }
 
@@ -121,18 +121,18 @@ tr:hover a { color: #5c5c5c; }
   border-spacing: 20px 2px;
   width: 250px; }
 
-.sidebarcontents a {
-  text-decoration: none;
-  color: black;
-  font-family: "Roboto", Arial;
-  font-weight: 400;
-  font-size: 14; }
+  .sidebarcontents a {
+    text-decoration: none;
+    color: black;
+    font-family: "Roboto", Arial;
+    font-weight: 400;
+    font-size: 14; }
 
-.sidebarcontents tr a:hover {
-  color: #5c5c5c; }
+  .sidebarcontents tr a:hover {
+    color: #5c5c5c; }
 
-.sidebarcontents tr a:active {
-  color: #5c5c5c; }
+  .sidebarcontents tr a:active {
+    color: #5c5c5c; }
 
 .scrollsection {
   height: 100vh;
@@ -150,16 +150,16 @@ tr:hover a { color: #5c5c5c; }
   padding-top: 50px;
   scroll-snap-align: start; }
 
-.writingsection img {
-  float: left;
-  max-height: 100%;
-  max-width: 100%;
-  margin-right: 200px; }
+  .writingsection img {
+    float: left;
+    max-height: 100%;
+    max-width: 100%;
+    margin-right: 200px; }
 
-.writingsection a {
-  text-decoration: none;
-  font-size: 15px;
-  color: #5c5c5c; }
+  .writingsection a {
+    text-decoration: none;
+    font-size: 15px;
+    color: #5c5c5c; }
 
 .photosection {
   height: 100vh;
@@ -183,17 +183,17 @@ tr:hover a { color: #5c5c5c; }
   justify-content: center;
   object-fit: cover; }
 
-.photobox a {
-  max-height: 85%;
-  height: auto;
-  max-width: 100%;
-  width: auto; }
+  .photobox a {
+    max-height: 85%;
+    height: auto;
+    max-width: 100%;
+    width: auto; }
 
-.photobox img {
-  max-height: 100%;
-  height: auto;
-  max-width: 100%;
-  width: auto; }
+  .photobox img {
+    max-height: 100%;
+    height: auto;
+    max-width: 100%;
+    width: auto; }
 
-.photobox p {
-  margin-top: 5px; }
+  .photobox p {
+    margin-top: 5px; }
