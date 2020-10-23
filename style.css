@@ -62,10 +62,7 @@ p, .content ol li {
   scroll-snap-align: start; }
 
 .photosizesection img {
-  padding: 0;
-  display: block;
-  object-position: center;
-  margin: 0 auto;
+  object-position: left;
   max-height: 100%;
   min-width: 100%;
   object-fit: cover; }
@@ -118,7 +115,9 @@ tr:hover a { color: #5c5c5c; }
   justify-content: space-between; }
 
 .sidebarcontents {
-  padding: 50px;
+  padding-left: 50px;
+  padding-top: 50px;
+  padding-right: 50px;
   border-spacing: 20px 1px;
   width: 250px; }
 
@@ -148,7 +147,7 @@ tr:hover a { color: #5c5c5c; }
   width: 100%;
   padding-left: 25%;
   padding-right: 25%;
-  padding-top: 60px;
+  padding-top: 50px;
   scroll-snap-align: start; }
 
 .writingsection img {
