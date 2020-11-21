@@ -34,7 +34,7 @@ h3 {
   line-height: 15px;
   margin-top: 10px; }
 
-p, .content ol li {
+p, ol li {
   font-size: 15px;
   line-height: 20px;
   font-weight: 400; }
@@ -155,10 +155,20 @@ tr:hover a { color: #5c5c5c; }
     max-width: 100%;
     margin-right: 200px; }
 
-  .writingsection a {
+  .writingsection ul, li, a {
+    text-decoration: none;
+    list-style-type: none;
+    font-family: "Roboto";
+    font-size: 15px;
+    line-height: 20px;
+    font-weight: 400;
+    color: black; }
+
+  .hyperlink {
     text-decoration: none;
     font-size: 15px;
     color: #5c5c5c; }
+
 
 .photosection {
   height: 100vh;
