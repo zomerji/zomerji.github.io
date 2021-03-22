@@ -168,7 +168,6 @@ p, ol li {
     font-size: 15px;
     color: #5c5c5c; }
 
-
 .photosection {
   height: 100vh;
   width: 100%;
@@ -202,6 +201,3 @@ p, ol li {
     height: auto;
     max-width: 100%;
     width: auto; }
-
-  .photobox p {
-    margin-top: 5px; }
