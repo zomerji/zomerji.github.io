@@ -201,3 +201,9 @@ p, ol li {
     height: auto;
     max-width: 100%;
     width: auto; }
+
+  .photobox video {
+    max-height: 85%;
+    height: auto;
+    max-width: 100%;
+    width: auto; }
